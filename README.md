@@ -1,4 +1,4 @@
-### Hi there, I am Juan
+### Hi there, I am Juan!
 
 ## About Me
 🎓 I'm currently a Computer Science major passionate about technology and coding.
